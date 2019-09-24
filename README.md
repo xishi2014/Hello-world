@@ -4,7 +4,7 @@
   git add .
   git commit -m "COMMIT"
   git branch -v
-  git push
+  git push origin master
 
 
 
